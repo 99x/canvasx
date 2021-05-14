@@ -1,0 +1,30 @@
+.toolbar {
+  padding: 2px;
+  height: 100%;
+  width: 100%;
+  background-color: #fdfeff;
+  opacity: 1;
+  z-index: 9;
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 0 1px 5px 0 rgb(0 0 0 / 10%);
+}
+
+.group-tb {
+  margin: 5px;
+}
+
+.btn-tb {
+  height: 100%;
+  width: 5%;
+  z-index: 9;
+  margin: 5px;
+  border-radius: 4px;
+  background-color: #e6e6e6;
+  box-shadow: 0 1px 5px 0 rgb(0 0 0 / 10%);
+}
+
+.btn-tb:hover {
+  background-color: #eeeeee;
+  box-shadow: 0 1px 5px 0 rgb(0 0 0 / 5%);
+}
